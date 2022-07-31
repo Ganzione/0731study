@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\ConsoleApp1\star\bin\Debug\star.exe.config
+C:\Users\admin\Desktop\ConsoleApp1\star\bin\Debug\star.exe
+C:\Users\admin\Desktop\ConsoleApp1\star\bin\Debug\star.pdb
+C:\Users\admin\Desktop\ConsoleApp1\star\obj\Debug\star.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\ConsoleApp1\star\obj\Debug\star.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\ConsoleApp1\star\obj\Debug\star.exe
+C:\Users\admin\Desktop\ConsoleApp1\star\obj\Debug\star.pdb
