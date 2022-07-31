@@ -38,15 +38,6 @@ namespace speedgame
             Stopwatch stopwatch = new Stopwatch();
             
             stopwatch.Start();
-            int sum = 0;
-            for (int i = 0; i < 10000; i++)
-            {
-                for (int j = 0; j < 100000; j++)
-                {
-                    sum = i * j;
-                }
-            }
-            float totalTime = stopwatch.ElapsedMilliseconds / 1000;
 
             Console.Write(randomNumber + "은 " + a1 + "의 배수입니까? (Y/N): ");
             string answer = Console.ReadLine();
@@ -54,12 +45,12 @@ namespace speedgame
             if (randomNumber % a1 == 0 && (answer == "Y" || answer == "y"))
             {
                 stopwatch.Stop();
-                Console.WriteLine("소요된 시간은 " + totalTime + "초 입니다.");
+                Console.WriteLine("소요된 시간은 " + stopwatch.ElapsedMilliseconds / 1000 + "초 입니다.");
             }
             else if (randomNumber % a1 != 0 && (answer == "n" || answer == "N"))
             {
                 stopwatch.Stop();
-                Console.WriteLine("소요된 시간은 " + totalTime + "초 입니다.");
+                Console.WriteLine("소요된 시간은 " + stopwatch.ElapsedMilliseconds / 1000 + "초 입니다.");
             }
             else
             {
