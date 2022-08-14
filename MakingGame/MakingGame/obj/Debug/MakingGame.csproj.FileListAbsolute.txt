@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\MakingGame\MakingGame\bin\Debug\MakingGame.exe.config
+C:\Users\admin\Desktop\MakingGame\MakingGame\bin\Debug\MakingGame.exe
+C:\Users\admin\Desktop\MakingGame\MakingGame\bin\Debug\MakingGame.pdb
+C:\Users\admin\Desktop\MakingGame\MakingGame\obj\Debug\MakingGame.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\MakingGame\MakingGame\obj\Debug\MakingGame.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MakingGame\MakingGame\obj\Debug\MakingGame.exe
+C:\Users\admin\Desktop\MakingGame\MakingGame\obj\Debug\MakingGame.pdb

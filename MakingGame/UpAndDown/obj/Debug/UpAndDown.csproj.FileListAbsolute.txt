@@ -1,0 +1,7 @@
+C:\Users\admin\Desktop\MakingGame\UpAndDown\bin\Debug\UpAndDown.exe.config
+C:\Users\admin\Desktop\MakingGame\UpAndDown\bin\Debug\UpAndDown.exe
+C:\Users\admin\Desktop\MakingGame\UpAndDown\bin\Debug\UpAndDown.pdb
+C:\Users\admin\Desktop\MakingGame\UpAndDown\obj\Debug\UpAndDown.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MakingGame\UpAndDown\obj\Debug\UpAndDown.exe
+C:\Users\admin\Desktop\MakingGame\UpAndDown\obj\Debug\UpAndDown.pdb
+C:\Users\admin\Desktop\MakingGame\UpAndDown\obj\Debug\UpAndDown.csproj.AssemblyReference.cache

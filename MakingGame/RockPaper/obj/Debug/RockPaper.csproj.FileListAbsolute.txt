@@ -1,0 +1,6 @@
+C:\Users\admin\Desktop\MakingGame\RockPaper\bin\Debug\RockPaper.exe.config
+C:\Users\admin\Desktop\MakingGame\RockPaper\bin\Debug\RockPaper.exe
+C:\Users\admin\Desktop\MakingGame\RockPaper\bin\Debug\RockPaper.pdb
+C:\Users\admin\Desktop\MakingGame\RockPaper\obj\Debug\RockPaper.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\MakingGame\RockPaper\obj\Debug\RockPaper.exe
+C:\Users\admin\Desktop\MakingGame\RockPaper\obj\Debug\RockPaper.pdb
